@@ -2,7 +2,7 @@
 
 > **Document Purpose**: Define the complete system design — every module, model, API contract, component, and data flow — so that implementation is a matter of filling in the blanks, not making design decisions on the fly.
 >
-> **Prerequisites**: Read [01 — Research & Analysis](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/01_research_and_analysis.md) first. Every decision here references a takeaway from that document.
+> **Prerequisites**: Read [01 — Research & Analysis](./01_research_and_analysis.md) first. Every decision here references a takeaway from that document.
 >
 > **Last Updated**: 2026-10-05
 
@@ -966,4 +966,4 @@ USER clicks ClauseCard on RIGHT panel
 
 ---
 
-> **Next Document**: [03 — Workflow Guide](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/03_workflow_guide.md) — How we build this, step by step, with verification gates and adversarial testing at every phase.
+> **Next Document**: [03 — Implementation Plan](./03_implementation_plan.md) — How we build this, step by step, with verification gates and adversarial testing at every phase.

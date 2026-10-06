@@ -2,7 +2,7 @@
 
 > **Document Purpose**: Exhaustive audit specification detailing every failure mode, edge case, malformed input, network interruption, and LLM anomaly — paired with the exact fallback mechanism and verification procedure to guarantee resilient performance under non-ideal conditions.
 >
-> **Prerequisites**: Read [02 — Architecture](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/02_architecture.md) and [03 — Implementation Plan](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/03_implementation_plan.md).
+> **Prerequisites**: Read [02 — Architecture](./02_architecture.md) and [03 — Implementation Plan](./03_implementation_plan.md).
 >
 > **Last Updated**: 2026-10-05
 

@@ -2,7 +2,7 @@
 
 > **Document Purpose**: Categorized master implementation roadmap for ClauseLens, structured into four clear milestone groups: Setup & Planning, Backend Development, Frontend Development, and Final Testing & Analysis.
 >
-> **Prerequisites**: Read [01 — Research & Analysis](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/01_research_and_analysis.md) and [02 — Architecture](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/02_architecture.md).
+> **Prerequisites**: Read [01 — Research & Analysis](./01_research_and_analysis.md) and [02 — Architecture](./02_architecture.md).
 >
 > **Last Updated**: 2026-10-06
 
@@ -24,14 +24,14 @@
 ### Phase 1: Research, Domain Analysis & Competitive Audit [COMPLETED]
 - [x] **Task 1.1**: Conduct legal tech market audit (LegalOn, Justee, DoNotPay, Luminance, Spellbook).
 - [x] **Task 1.2**: Define ClauseLens 6 risk taxonomy (Liability, IP, Payment, Termination, Restrictive, Privacy).
-- [x] **Task 1.3**: Document 10 key takeaways & gap analysis in [01_research_and_analysis.md](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/01_research_and_analysis.md).
+- [x] **Task 1.3**: Document 10 key takeaways & gap analysis in [01_research_and_analysis.md](./01_research_and_analysis.md).
 
 ### Phase 2: System Architecture & Unideal Testing Matrix [COMPLETED]
 - [x] **Task 2.1**: Define layered system architecture, Pydantic domain models, and FastAPI router structure.
 - [x] **Task 2.2**: Design fail-safe analysis service orchestrator with automatic heuristic fallback.
 - [x] **Task 2.3**: Design multi-level character offset algorithm (`OffsetService`) for substring tracing.
-- [x] **Task 2.4**: Create complete System Architecture Document in [02_architecture.md](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/02_architecture.md).
-- [x] **Task 2.5**: Create Unideal Testing & Verification Matrix in [04_unideal_testing_matrix.md](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/04_unideal_testing_matrix.md).
+- [x] **Task 2.4**: Create complete System Architecture Document in [02_architecture.md](./02_architecture.md).
+- [x] **Task 2.5**: Create Unideal Testing & Verification Matrix in [04_unideal_testing_matrix.md](./04_unideal_testing_matrix.md).
 
 ---
 
@@ -82,7 +82,7 @@
 - [x] **Task 9.3**: Add `ApiKeyModal.tsx`, `ErrorBanner.tsx`, and `LoadingOverlay.tsx`.
 
 ### Phase 10: Systematic Unideal Condition Verification, UX Audit & Optimization [COMPLETED]
-- [x] **Task 10.1**: Execute full 19-point audit from [04_unideal_testing_matrix.md](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/04_unideal_testing_matrix.md) via `test_group4_integration.py`.
+- [x] **Task 10.1**: Execute full 19-point audit from [04_unideal_testing_matrix.md](./04_unideal_testing_matrix.md) via `test_group4_integration.py`.
 - [x] **Task 10.2**: Refine design language system to Legal Midnight Navy (`#0b1329`) and Sapphire Blue accents, replacing all purple/indigo colors.
 - [x] **Task 10.3**: Remove all raw text emojis, replacing them strictly with Lucide SVG vectors (`ShieldCheck`, `AlertCircle`, `AlertOctagon`, `AlertTriangle`, `CheckCircle2`, `Check`, `Sparkles`, `Download`, `Key`, `Quote`).
 - [x] **Task 10.4**: Verify zero console errors, zero unhandled tracebacks, and clean 100% production build (`npm run build`).

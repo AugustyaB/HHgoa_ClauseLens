@@ -482,4 +482,4 @@ These are the concrete design decisions derived from all research above. Each fe
 
 ---
 
-> **Next Document**: [02 — Architecture Document](file:///C:/Users/augus/.gemini/antigravity-ide/brain/675a5651-1143-4e08-b635-49fbde3f9d28/02_architecture.md) — Where we translate these findings into concrete system design decisions.
+> **Next Document**: [02 — Architecture Document](./02_architecture.md) — Where we translate these findings into concrete system design decisions.
