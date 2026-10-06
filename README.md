@@ -13,7 +13,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
-[![Vite](https://img.shields.io/badge/Vite-5.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Vercel](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://h-hgoa-clause-lens.vercel.app/)
 [![Wispr Flow](https://img.shields.io/badge/Dictated_with-Wispr_Flow-FF5722?style=for-the-badge&logo=google-podcast&logoColor=white)](https://wisprflow.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
@@ -21,9 +21,11 @@
 
 <p align="center">
   <b>ClauseLens</b> audits dense, intimidating legal agreements in under <b>2 seconds</b>. It highlights predatory traps directly in the text, rates the contract's fairness from 0 to 100, and generates professional, lawyer-grade counter-clauses that renters, freelancers, and everyday signers can copy and negotiate with immediately.
+  <br/><br/>
+  🌐 <b>Live Web App</b>: <a href="https://h-hgoa-clause-lens.vercel.app/"><b>h-hgoa-clause-lens.vercel.app</b></a>
 </p>
 
-[Explore Features](#-key-features) • [System Architecture](#-system-architecture) • [Curated Benchmarks](#-pre-seeded-benchmark-contracts) • [Quick Start](#-quick-start-guide) • [Wispr Flow Story](#-the-voice-driven-build-story)
+[🌐 Live App](https://h-hgoa-clause-lens.vercel.app/) • [Explore Features](#-key-features) • [System Architecture](#-system-architecture) • [Curated Benchmarks](#-pre-seeded-benchmark-contracts) • [Quick Start](#-quick-start-guide) • [Wispr Flow Story](#-the-voice-driven-build-story)
 
 ---
 
@@ -145,8 +147,8 @@ ClauseLens was built following the **GSD (Get Shit Done)** spec-driven engineeri
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AugustyaB/clauselens.git
-cd clauselens
+git clone https://github.com/AugustyaB/HHgoa_ClauseLens.git
+cd HHgoa_ClauseLens
 ```
 
 ---
