@@ -128,12 +128,9 @@ function analysisReducer(state: AnalysisState, action: AnalysisAction): Analysis
       return {
         ...state,
         contractText: action.sample.text,
-        analysis: action.sample.sample_analysis,
-        viewMode: 'reader',
-        activeClauseId:
-          action.sample.sample_analysis.clauses.length > 0
-            ? action.sample.sample_analysis.clauses[0].id
-            : null,
+        analysis: null,
+        viewMode: 'editor',
+        activeClauseId: null,
         analysisError: null,
       };
 
